@@ -1,0 +1,10 @@
+In JS, closure is created every time a function is created.
+Closures are frequently used in JavaScript for object data privacy
+
+
+A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment)
+
+ A closure gives you access to an outer function’s scope from an inner function. In JavaScript,
+
+ closures are the primary mechanism used to enable data privacy.
+ When you use closures for data privacy, the enclosed variables are only in scope within the containing (outer) function. 
